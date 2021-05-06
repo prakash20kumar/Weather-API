@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 80px 30% 0 30%;
+  padding: 25px;
+  background-color: rgba(128, 128, 128, 0.24);
+  font-size: 25px;
+  border: 1px solid gray;
+  box-shadow: 0 2px 10px gray;
+}
+
+#btn {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
+
+#pic {
+  border-radius: 50%;
+  width: 30%;
+  border: 1px solid black;
+}
+
+#inp {
+  font-size: 25px;
+  margin-top: 10px;
+}
